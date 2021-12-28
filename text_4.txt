@@ -1,0 +1,4 @@
+Pathology 10(h) 25(h) 15(h)
+Pathophysiology 12(h) 26(h) -
+Biochemistry 11(h) - 10(h)
+Med.informatics - 10(h) 6(h)
